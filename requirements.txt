@@ -1,10 +1,13 @@
+# Python 3.9+
+# NOTE: For GPU builds, install PyTorch first from https://pytorch.org/get-started/locally/
+# (then run: pip install -r requirements.txt)
 
 numpy
-Pillow
 scipy
+Pillow
+pycocotools
 torch
 torchvision
-pycocotools
 activeft
 open-clip-torch (git+https://github.com/openai/CLIP.git)
 
