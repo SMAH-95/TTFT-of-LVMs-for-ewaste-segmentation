@@ -13,9 +13,6 @@ We implemented the proposed framework in PyTorch and ran experiments on a single
 ## Cite
 If you find our work valuable for your research, we kindly ask you to consider citing it.
 
-Aseni Senanayake, Nilakshan Kunananthaseelan, Mehrtash Harandi & Mehrdad Arashpour.(2026). An artificial-intelligence-driven framework for sustainable e-waste recognition. Nature Sustanability. 
-
-```bibtex
 @article{senanayake2025automated,
   title={Automated Electro-construction waste Sorting: Computer vision for part-level segmentation},
   author={Senanayake, Aseni and Arashpour, Mehrdad},
@@ -38,3 +35,5 @@ Aseni Senanayake, Nilakshan Kunananthaseelan, Mehrtash Harandi & Mehrdad Arashpo
 
 ## Acknowledgement & Funding
 This research is supported by the [Automation and Sustainability in Construction and Intelligent Infrastructure (ASCII) Lab](https://www.monash.edu/ascii/home) at Monash University, Melbourne, Australia. The authors sincerely thank the lab for providing resources, technical assistance, and a collaborative setting that made this work possible.
+
+
