@@ -17,8 +17,20 @@ pip install -r requirements.txt
 2. Download the pre-trained [Segment Anything Model 2 (SAM2)](https://github.com/facebookresearch/sam2) save in ./checkpoints
 3. Download the [activeft](https://github.com/jonhue/activeft)
 4. Image retrieval and TTFT:
+
+Automatic segmenetaion
 ```bash
-python TTFT.py
+python TTFT_automatic_seg.py
+```
+
+Box propmt segmenetaion
+```bash
+python TTFT_box_seg.py
+```
+
+Point propmt segmenetaion
+```bash
+python TTFT_point_seg.py
 ```
 
 
