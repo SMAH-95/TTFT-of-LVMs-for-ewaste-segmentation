@@ -1,19 +1,11 @@
-# Core
+
 numpy
 Pillow
 scipy
-
-# PyTorch (you can pin these if you want exact reproducibility)
 torch
 torchvision
-
-# Evaluation
 pycocotools
-
-# Active retrieval (SIFT/ITL)
 activeft
-
-# CLIP
 open-clip-torch
 git+https://github.com/openai/CLIP.git
 
