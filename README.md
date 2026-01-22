@@ -13,7 +13,28 @@ We implemented the proposed framework in PyTorch and ran experiments on a single
 ## Cite
 If you find our work valuable for your research, we kindly ask you to consider citing it.
 
-Aseni Senanayake, Nilakshan Kunananthaseelan, Mehrtash Harandi & Mehrdad Arashpour.(2026).An artificial-intelligence-driven framework for sustainable e-waste recognition.Nature Sustanability. 
+Aseni Senanayake, Nilakshan Kunananthaseelan, Mehrtash Harandi & Mehrdad Arashpour.(2026). An artificial-intelligence-driven framework for sustainable e-waste recognition. Nature Sustanability. 
+
+```bibtex
+@article{senanayake2025automated,
+  title={Automated Electro-construction waste Sorting: Computer vision for part-level segmentation},
+  author={Senanayake, Aseni and Arashpour, Mehrdad},
+  journal={Waste Management},
+  volume={203},
+  pages={114883},
+  year={2025},
+  publisher={Elsevier}
+}
+
+@article{senanayake2025sustainable,
+  title={Sustainable resource management in construction: Computer vision for recognition of electro-construction waste (ECW)},
+  author={Senanayake, Aseni and Gautam, Birat and Harandi, Mehrtash and Arashpour, Mehrdad},
+  journal={Resources, Conservation and Recycling},
+  volume={221},
+  pages={108380},
+  year={2025},
+  publisher={Elsevier}
+}
 
 ## Acknowledgement & Funding
 This research is supported by the [Automation and Sustainability in Construction and Intelligent Infrastructure (ASCII) Lab](https://www.monash.edu/ascii/home) at Monash University, Melbourne, Australia. The authors sincerely thank the lab for providing resources, technical assistance, and a collaborative setting that made this work possible.
