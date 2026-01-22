@@ -7,8 +7,11 @@ Recycling e-waste is critical for resource conservation and environmental sustai
 ## AI-driven framework
 
 ## System requirements
-We implemented the proposed framework in PyTorch and ran experiments on a single NVIDIA A100 PCIE (40 GB).
+We implemented the proposed framework in PyTorch and ran experiments on a single NVIDIA A100 PCIE (40 GB). You can install all the requirement via:
 
+```bash
+pip install -r requirements.txt
+```
 
 ## Cite
 If you find our work valuable for your research, we kindly ask you to consider citing it.
