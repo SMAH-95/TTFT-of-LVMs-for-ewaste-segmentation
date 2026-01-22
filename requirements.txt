@@ -6,6 +6,5 @@ torch
 torchvision
 pycocotools
 activeft
-open-clip-torch
-git+https://github.com/openai/CLIP.git
+open-clip-torch (git+https://github.com/openai/CLIP.git)
 
