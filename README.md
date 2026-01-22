@@ -12,6 +12,13 @@ We implemented the proposed framework in PyTorch and ran experiments on a single
 ```bash
 pip install -r requirements.txt
 ```
+## Quick strat
+1. Download the dataset and split into query images (for testing) and candidate images ( for TTFT)
+2. Download the pre-trained [Segment Anything Model 2 (SAM2)](https://github.com/facebookresearch/sam2) save in ./checkpoints
+3. Download the [activeft](https://github.com/jonhue/activeft)
+
+
+
 
 ## Cite
 If you find our work valuable for your research, we kindly ask you to consider citing it.
