@@ -13,4 +13,4 @@ We implemented the proposed framework in PyTorch and ran experiments on a single
 ## Citation 
 
 ## Acknowledgement & Funding
-This research is supported by the [Automation and Sustainability in Construction and Intelligent Infrastructure (ASCII) Lab] (https://www.monash.edu/ascii/home) at Monash University, Melbourne, Australia. The authors gratefully acknowledge the lab’s resources, technical support, and collaborative environment that enabled the development and associated research.
+This research is supported by the [Automation and Sustainability in Construction and Intelligent Infrastructure (ASCII) Lab](https://www.monash.edu/ascii/home) at Monash University, Melbourne, Australia. The authors gratefully acknowledge the lab’s resources, technical support, and collaborative environment that enabled the development and associated research.
