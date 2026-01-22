@@ -10,7 +10,9 @@ Recycling e-waste is critical for resource conservation and environmental sustai
 We implemented the proposed framework in PyTorch and ran experiments on a single NVIDIA A100 PCIE (40 GB).
 
 
-## Citation 
+## Cite
+If you find our work valuable for your research, we kindly ask you to consider citing it.
+Aseni Senanayake, Nilakshan Kunananthaseelan, Mehrtash Harandi & Mehrdad Arashpour.(2026).An artificial-intelligence-driven framework for sustainable e-waste recognition.Nature Sustanability. 
 
 ## Acknowledgement & Funding
 This research is supported by the [Automation and Sustainability in Construction and Intelligent Infrastructure (ASCII) Lab](https://www.monash.edu/ascii/home) at Monash University, Melbourne, Australia. The authors sincerely thank the lab for providing resources, technical assistance, and a collaborative setting that made this work possible.
