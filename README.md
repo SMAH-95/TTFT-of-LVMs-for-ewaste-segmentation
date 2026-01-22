@@ -12,6 +12,7 @@ We implemented the proposed framework in PyTorch and ran experiments on a single
 
 ## Cite
 If you find our work valuable for your research, we kindly ask you to consider citing it.
+
 Aseni Senanayake, Nilakshan Kunananthaseelan, Mehrtash Harandi & Mehrdad Arashpour.(2026).An artificial-intelligence-driven framework for sustainable e-waste recognition.Nature Sustanability. 
 
 ## Acknowledgement & Funding
