@@ -1,1 +1,21 @@
+## Box prompt format (`.txt`)
+
+For **box-prompt** inference with SAM2, each image has a corresponding `.txt` file containing one or more bounding boxes.
+
+### File format (one box per line)
+
+Each line uses **absolute pixel coordinates** (NOT normalized):
+
+
+- `class_id` : integer class label
+- `x_min, y_min` : **top-left** corner of the box in pixels
+- `width, height` : box size in pixels  
+- Values can be integers or floats (as shown below)
+
+### Example
+
+```txt
+5 0.00 449.00 80.00 103.12
+4 34.00 34.00 262.00 269.76
+6 228.00 91.00 381.19 331.75
 
