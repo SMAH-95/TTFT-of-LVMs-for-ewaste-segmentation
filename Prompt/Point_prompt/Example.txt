@@ -2,12 +2,11 @@
 For point-prompt inference with SAM2, each image has a corresponding `.txt` file containing one or more point prompts.
 Each line uses absolute pixel coordinates(NOT normalized ):
 
-
+### Format
 - `instance_id` : integer ID of the annotated instance (used to group multiple points that belong to the same object)
 - `class_id` : integer class label
 - `x, y` : point location in **pixels**
 - `label` : point type (`1` = positive / foreground)
-
 
 ### Example
 344 5 311 538 1
