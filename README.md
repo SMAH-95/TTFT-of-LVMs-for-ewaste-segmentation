@@ -64,7 +64,7 @@ This research is supported by the [Automation and Sustainability in Construction
 
 
 
-This work builds on and was inspired by the following research:
+This work was inspired by and builds on by the following research:
 
 [Efficiently Learning at Test-Time: Active Fine-Tuning of LLMs](https://arxiv.org/abs/2410.08020)
 
