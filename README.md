@@ -1,6 +1,6 @@
 # An artificial-intelligence-driven framework for sustainable e-waste recognition
 
-This repo contains the supported pytorch code and configurations for the "An artificial-intelligence-driven framework for sustainable e-waste recognition" article. 
+This repo contains the supported pytorch code and configurations for the "An artificial-intelligence-driven method for sustainable e-waste segmentation" article. 
 
 ## Abstract
 
