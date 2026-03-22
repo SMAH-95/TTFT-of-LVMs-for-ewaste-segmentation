@@ -1,6 +1,6 @@
-# An artificial-intelligence-driven framework for sustainable e-waste recognition
+# Advancing Resource Recovery from E-Waste with Artificial-Intelligence-Driven Segmentation
 
-This repo contains the supported pytorch code and configurations for the "An artificial-intelligence-driven method for sustainable e-waste segmentation" article. 
+This repo contains the supported pytorch code and configurations for the "Advancing Resource Recovery from E-Waste with Artificial-Intelligence-Driven Segmentation" article. 
 
 ## Abstract
 Recycling e-waste is critical for resource conservation and environmental sustainability. Artificial-intelligence (AI) has shown potential for waste recycling. Yet AI-based e-waste recognition remains challenging because images are heterogeneous and cluttered, while domain-specific annotated data are limited and conventional adaptation is time and compute-intensive. Here, we present an AI-driven method that integrates test-time fine-tuning (TTFT) with a large-scale vision foundation model to enable automated e-waste segmentation for sustainable resource recovery workflows. The method adapts the model at test-time using a small, diverse, contextually relevant retrieved set, reducing dependence on large labeled datasets and expensive fine-tuning. We evaluate the method on a curated e-waste dataset. In our experimental setting, end-to-end TTFT is approximately 6× faster than parameter-efficient fine-tuning while maintaining reliable segmentation and achieving higher accuracy with less domain-specific data, enabling scalable AI deployment for e-waste management and supporting progress toward the United Nations Sustainable Development Goals.
