@@ -35,31 +35,6 @@ Point propmt segmenetaion
 python TTFT_point_seg.py
 ```
 
-
-## Cite
-If you find our work valuable for your research, we kindly ask you to consider citing it.
-
-```bibtex
-@article{senanayake2025automated,
-  title={Automated Electro-construction waste Sorting: Computer vision for part-level segmentation},
-  author={Senanayake, Aseni and Arashpour, Mehrdad},
-  journal={Waste Management},
-  volume={203},
-  pages={114883},
-  year={2025},
-  publisher={Elsevier}
-}
-@article{senanayake2025sustainable,
-  title={Sustainable resource management in construction: Computer vision for recognition of electro-construction waste (ECW)},
-  author={Senanayake, Aseni and Gautam, Birat and Harandi, Mehrtash and Arashpour, Mehrdad},
-  journal={Resources, Conservation and Recycling},
-  volume={221},
-  pages={108380},
-  year={2025},
-  publisher={Elsevier}
-}
-```
-
 ## Acknowledgement
 This research is supported by the [Automation and Sustainability in Construction and Intelligent Infrastructure (ASCII) Lab](https://www.monash.edu/ascii/home) at Monash University, Melbourne, Australia. The authors sincerely thank the lab for providing resources, technical assistance, and a collaborative setting that made this work possible.
 
