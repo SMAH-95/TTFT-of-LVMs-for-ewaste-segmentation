@@ -36,9 +36,6 @@ python TTFT_point_seg.py
 ```
 
 ## Acknowledgement
-This research is supported by the [Automation and Sustainability in Construction and Intelligent Infrastructure (ASCII) Lab](https://www.monash.edu/ascii/home) at Monash University, Melbourne, Australia. The authors sincerely thank the lab for providing resources, technical assistance, and a collaborative setting that made this work possible.
-
-
 
 This work was inspired by and builds on the following research works:
 
