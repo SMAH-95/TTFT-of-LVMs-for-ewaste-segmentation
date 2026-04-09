@@ -36,7 +36,7 @@ python TTFT_point_seg.py
 ```
 
 ## Acknowledgement
-This research is supported by the Automation and Sustainability in Construction and Intelligent Infrastructure (ASCII) Lab (https://www.monash.edu/ascii) at Monash University, Melbourne, Australia. The authors gratefully acknowledge the lab’s resources, technical support, and collaborative environment that enabled the development of the research.
+This research is supported by the [Automation and Sustainability in Construction and Intelligent Infrastructure (ASCII) Lab](https://www.monash.edu/ascii) at Monash University, Melbourne, Australia. The authors gratefully acknowledge the lab’s resources, technical support, and collaborative environment that enabled the development of the research.
 
 This work was inspired by and builds on the following research works:
 
@@ -44,5 +44,10 @@ This work was inspired by and builds on the following research works:
 
 [SAM 2: Segment Anything in Images and Videos](https://github.com/facebookresearch/sam2)
 
+## Citation
+If you find our work valuable for your research, we kindly ask you to consider citing it.
 
+Senanayake, A. and Arashpour, M., 2025. Automated Electro-construction waste Sorting: Computer vision for part-level segmentation. Waste Management, 203, p.114883.
+
+Senanayake, A., Gautam, B., Harandi, M. and Arashpour, M., 2025. Sustainable resource management in construction: Computer vision for recognition of electro-construction waste (ECW). Resources, Conservation and Recycling, 221, p.108380.
 
